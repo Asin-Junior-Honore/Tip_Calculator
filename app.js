@@ -39,7 +39,7 @@ customtip.addEventListener("input", (e) => {
     errormessage.style.visibility = "visible";
     peopleinput.style.border = "2px solid red";
 
-    //peopleinput.value = 1
+
   } else {
     peopleinput.style.border = "";
     errormessage.style.visibility = "";
